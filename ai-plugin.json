@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "tiktok_toy_rank",
+  "name_for_human": "TikTok玩具达人榜",
+  "description_for_model": "获取 TikTok 玩具类热门达人前10名。",
+  "description_for_human": "查找TikTok上玩具类热门达人排名。",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://你的Render域名/openapi.json"
+  },
+  "logo_url": "https://你的Render域名/logo.png",
+  "contact_email": "you@example.com",
+  "legal_info_url": "https://你的Render域名/legal"
+}
